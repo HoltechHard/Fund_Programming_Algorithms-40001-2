@@ -31,3 +31,15 @@ MyString::MyString(const MyString &str){
 MyString::~MyString(){
     delete[] p_str;
 }
+
+// procedure to modify the string data
+void MyString::set_string(const char *str){    
+    delete[] p_str;
+    p_str = new char[strlen(str)+1];
+    strcpy(p_str, str);
+}
+
+// function to retrieve the string data
+const char *MyString::get_string(){
+    return p_str;
+}
