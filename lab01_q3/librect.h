@@ -23,3 +23,5 @@ class Rectangle{
         void set_all(int left, int right, int bottom, int top);
         void get_all(int &left, int &right, int &bottom, int &top);
 };
+
+Rectangle build_rectangle(Rectangle r1, Rectangle r2);

@@ -93,3 +93,15 @@ void Rectangle::get_all(int &left, int &right, int &bottom, int &top){
     bottom = p_bottom;
     top = p_top;
 }
+
+// procedure to build new rectangle based on rectangle comparison
+Rectangle build_rectangle(Rectangle r1, Rectangle r2){
+    int x1, x2, y1, y2;
+
+    x1 = min(r1.p_left, r2.p_left);
+    x2 = max(r1.p_right, r2.p_right);
+    y1 = min(r1.p_bottom, r2.p_bottom);
+    y2 = max(r1.p_top, r2.p_top);
+    
+    return Rectangle(x1, x2, y1, y2);
+}
