@@ -1,0 +1,20 @@
+================================================
+|       UPDATING CONFIGURATIONS IN VS-CODE      |
+================================================
+
+1) to use makefile running command make naturally
+
+make.bat
+--------
+
+@echo off
+mingw32-make %*
+
+2) copy file make.bat in the next directory
+C:\MinGW\bin
+
+3) now is possible run program with command
+> make run 
+
+instead this, you can run using
+> mingw32-make run
