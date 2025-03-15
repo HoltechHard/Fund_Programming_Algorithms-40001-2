@@ -6,6 +6,7 @@
 #include <iostream>
 #include <cmath>
 #include "libcomplex.h"
+#include "libvect.h"
 
 using namespace std;
 
@@ -40,5 +41,27 @@ int main(){
         lst_complex[i].print();
     }
 
+    // dynamic vectors weights and inputs
+    int n;
+    char op;
+    cout<<"--- Dynamic vector of complex numbers ---"<<endl;
+    set_num_elements(n);
+    VectComplex weights(n), inputs(n);
+
+    cout<<"--- Vector weights ---"<<endl;
+    weights.set_vector();
+    weights.print_vector();
+
+    cout<<"--- Vector inputs ---"<<endl;
+    inputs.set_vector();
+    inputs.print_vector();
+
+    // calculate vector of outputs
+    cout<<"--- Vector outputs ---"<<endl;
+    cout<<"Input the operation: ";
+    cin>>op;
+    VectComplex outputs = vect_operation(op, weights, inputs);
+    outputs.print_vector();
+    
     return 0;
 }

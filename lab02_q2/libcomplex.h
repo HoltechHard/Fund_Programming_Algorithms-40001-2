@@ -22,3 +22,4 @@ Complex sum(Complex c1, Complex c2);
 Complex difference(Complex c1, Complex c2);
 Complex product(Complex c1, Complex c2);
 Complex division(Complex c1, Complex c2);
+Complex operation(char op, Complex c1, Complex c2);

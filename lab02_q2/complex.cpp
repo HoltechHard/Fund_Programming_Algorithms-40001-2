@@ -74,3 +74,15 @@ Complex division(Complex c1, Complex c2){
 
     return Complex(real, img);
 }
+
+// function to choose and execute complex numbers operation
+Complex operation(char op, Complex c1, Complex c2){
+    switch(op){
+        case '+': return sum(c1, c2); break;
+        case '-': return difference(c1, c2); break;
+        case '*': return product(c1, c2); break;
+        case '/': return division(c1, c2); break;
+        default:
+            cout<<"Operator not identified!"<<endl;            
+    }
+}
