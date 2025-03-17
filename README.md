@@ -24,10 +24,12 @@
   
 **Теории и Синтаксис С++**   
   * простой наследования
-  ![image](https://github.com/user-attachments/assets/48a0c83a-ce5a-464d-b42a-3977faa602d0)  
-  
-  * типы наследования   
-  ![image](https://github.com/user-attachments/assets/d67e1c76-49a2-4ac6-8e62-716d9a1e0e27)  
+      
+  ![image](https://github.com/user-attachments/assets/7a3ea3ee-d6b2-4033-9142-d46fb525efc5)  
+      
+  * типы наследования
+     
+  ![image](https://github.com/user-attachments/assets/d67e1c76-49a2-4ac6-8e62-716d9a1e0e27)   
       
     
 ### Урок 02 - Массив объектов и указателей на объекты  
