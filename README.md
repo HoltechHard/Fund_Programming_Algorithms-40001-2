@@ -23,8 +23,8 @@
 **Теории и Синтаксис С++**  
 
 
-|                        Operations with Objects using call by reference vs. call by value                      |
-|---------------------------------------------------------------------------------------------------------------|
+                        **Operations with Objects using call by reference vs. call by value**                        
+
 | Feature               | Reference Version (`Point&`)               | Value Version (`Point`)                  |
 |-----------------------|--------------------------------------------|------------------------------------------|
 | **Parameter Passing** | By reference (`Point &p`)                  | By value (copies `Point p`)              |
