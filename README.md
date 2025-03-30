@@ -22,7 +22,7 @@
 
 **Теории и Синтаксис С++**  
 
-```markdown
+
 |                        Operations with Objects using call by reference vs. call by value                      |
 |---------------------------------------------------------------------------------------------------------------|
 | Feature               | Reference Version (`Point&`)               | Value Version (`Point`)                  |
@@ -33,7 +33,7 @@
 | **Chaining Support**  | Yes (e.g., `a -= b -= c` works)            | No (returns temporary, breaks chaining)  |
 | **Performance**       | Efficient (no copies)                      | Inefficient (creates copies)             |
 | **Expected Use**      | Standard for compound assignment (`-=`)    | Unconventional (violates expectations)   |
-```
+
     
 ### Урок 03 - Наследование и отнощения между классы   
 ----------------------------------------------------     
