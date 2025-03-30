@@ -22,7 +22,7 @@
 
 **Теории и Синтаксис С++**  
 
-```
+```markdown
 |                        Operations with Objects using call by reference vs. call by value                      |
 |---------------------------------------------------------------------------------------------------------------|
 | Feature               | Reference Version (`Point&`)               | Value Version (`Point`)                  |
