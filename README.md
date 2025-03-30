@@ -12,7 +12,28 @@
 
 ### Урок 04 - Методы и классы дружеского типа. Перегрузка операторов  
 ---------------------------------------------------------------------    
-  
+
+**Главные Подтемы:**  
+  - Работать с объектами с вызов по ссылка и по значеню
+  - методы типа friend
+  - классы типа friend
+  - перегрузка операции +, -, +=, -=, [], <<
+  - Разработка базы данных «ключ-значение»  
+
+**Теории и Синтаксис С++**  
+
+```
+|                        Operations with Objects using call by reference vs. call by value                      |
+|---------------------------------------------------------------------------------------------------------------|
+| Feature               | Reference Version (`Point&`)               | Value Version (`Point`)                  |
+|-----------------------|--------------------------------------------|------------------------------------------|
+| **Parameter Passing** | By reference (`Point &p`)                  | By value (copies `Point p`)              |
+| **Modifies Original** | Yes (directly changes caller object)       | No (only modifies local copy)            |
+| **Return Type**       | Reference (`Point&`)                       | New object (`Point`)                     |
+| **Chaining Support**  | Yes (e.g., `a -= b -= c` works)            | No (returns temporary, breaks chaining)  |
+| **Performance**       | Efficient (no copies)                      | Inefficient (creates copies)             |
+| **Expected Use**      | Standard for compound assignment (`-=`)    | Unconventional (violates expectations)   |
+```
     
 ### Урок 03 - Наследование и отнощения между классы   
 ----------------------------------------------------     
