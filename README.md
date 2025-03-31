@@ -25,14 +25,14 @@
 
                     **Операции с объектами с использованием вызова по ссылке и вызова по значению**                        
 
-| Feature               | Reference Version (`Point&`)               | Value Version (`Point`)                  |
+| Характеристика               | вызов по ссылки (`Point&`)               | Вызов по ссылки (`Point`)                  |
 |-----------------------|--------------------------------------------|------------------------------------------|
-| **Parameter Passing** | By reference (`Point &p`)                  | By value (copies `Point p`)              |
-| **Modifies Original** | Yes (directly changes caller object)       | No (only modifies local copy)            |
-| **Return Type**       | Reference (`Point&`)                       | New object (`Point`)                     |
-| **Chaining Support**  | Yes (e.g., `a -= b -= c` works)            | No (returns temporary, breaks chaining)  |
-| **Performance**       | Efficient (no copies)                      | Inefficient (creates copies)             |
-| **Expected Use**      | Standard for compound assignment (`-=`)    | Unconventional (violates expectations)   |
+| **Передача параметров** | по ссылки (`Point &p`)                  | по ссылки (копия `Point p`)              |
+| **Изменяет исходный объект** |  Да (напрямую изменяет вызывающий объект)       | Нет (изменяет только локальную копию)            |
+| **Тип возвращаемого значения**       | Ссылка (`Point&`)                       | Новый объект (`Point`)                    |
+| **Поддержка цепочек**  | Да (например, `a -= b -= c` работает)            | Нет (возвращает временное значение, прерывает цепочку)  |
+| **Производительность**       | Эффективность (без копий)                      | Неэффективность (создает копии)            |
+| **Ожидаемое использование**      | Стандарт для составного присваивания (`-=`)   | неожидаемое   |
 
     
 ### Урок 03 - Наследование и отнощения между классы   
