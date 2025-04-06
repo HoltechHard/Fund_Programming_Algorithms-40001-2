@@ -1,3 +1,7 @@
+/*
+    Template to class Point
+*/
+
 #pragma once 
 
 class Point{
