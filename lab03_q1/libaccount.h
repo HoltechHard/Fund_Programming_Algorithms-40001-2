@@ -5,7 +5,7 @@
 #pragma once
 
 class Account{
-    private:
+    protected:
         char id[5];
         char name[50];
         double tax;
