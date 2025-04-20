@@ -27,19 +27,31 @@
 **Результаты**:  
   
 * Экзамен группа 01: Проверьте решение в папке **exam_group_01**  
-  1) Вариант 01  
+  1) Вариант 01   
     
   ![image](https://github.com/user-attachments/assets/8874eab3-2da0-4764-9628-e831c291a4ed)   
      
-  2) Вариант 02
+  2) Вариант 02  
+     
+  ![image](https://github.com/user-attachments/assets/cecc2132-5245-41f4-914d-27d238c251c3)   
+     
+  3) Вариант 03   
+     
+  ![image](https://github.com/user-attachments/assets/f4db29d5-f4d6-43b1-be60-251643bb3f06)   
     
-  ![image](https://github.com/user-attachments/assets/cecc2132-5245-41f4-914d-27d238c251c3)  
+* Экзамен группа 02: Проверьте решение в папке **exam_group_02**   
+  1) Вариант 01   
     
-  3) Вариант 03  
+  ![image](https://github.com/user-attachments/assets/97c0032b-afb6-44df-ab9a-9bef47351e8b)   
     
-  ![image](https://github.com/user-attachments/assets/f4db29d5-f4d6-43b1-be60-251643bb3f06)  
-   
-  
+  2) Вариант 02  
+     
+  ![image](https://github.com/user-attachments/assets/99e813d6-b39f-4871-8f1f-8a2ab80b9cb6)    
+    
+  3) Вариант 03   
+    
+  ![image](https://github.com/user-attachments/assets/d64d47b7-859b-4da4-a36f-1ebdb373f911)  
+    
 ### Урок 05 - ООП и структуры данных  
 --------------------------------------  
   
