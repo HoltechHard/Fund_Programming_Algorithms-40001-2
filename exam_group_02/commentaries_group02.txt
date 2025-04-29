@@ -1,0 +1,122 @@
+=====================================================
+|    Коментарии за решение Экзаменов - Группа 2     |
+=====================================================
+
+* Ambarnikova
+All implementation is correct. 
+Score: 100/100
+
+* Bai Boris
+The class RotatorPoint, the attribute "s" is not defined. The math formulas not coincide. 
+Score: 87/100
+
+* Chumak Artemii
+The classes FixedCosts and VariableCosts in constructor of default and for parameters don't 
+have inheritance with class Cost. Te class AdministrativeExpenses don't have inherance
+with class Accounting. FixedCost dont have the function calculate()
+Score: 80/100
+
+* Eslamnia Mokhammad
+All implementation is correct.
+Score: 100/100
+
+* Kulikova Angelina
+The implementation of overload operations is not implemented.
+Score: 50/100
+
+* Luciana Zambrana
+All implementation is correct
+Score: 100/100
+
+* Micheal Chikange
+All implementation is correct 
+Score: 100/100
+
+* Sikorsky Alexander
+All implementation is correct
+Score: 100/100
+
+* Sinkina Vasilina
+In the overload operations, your implementation is of class method. In the 
+exam was required global function with friend priviledge
+Score: 85/100
+
+* Bolshakov Leonid
+The constructors of classes Costs, FixedCost, VariableCost and AdministrativeExpenses
+don't have inheritance definition in Accouting.cpp. 
+Score: 70/100
+
+* Giliazov Timur
+All implementation is correct
+Score: 100/100
+
+* Goldobin Kirill
+The overload operations are defined as class methods. The exam requires implement
+as global function with friend priviledge
+Score: 85/100
+
+* Deniskina A.I
+All implementations are correct.
+Score: 100/100
+
+* Dimeretz Sofia Alekseeva
+The database engine need be defined as enumeration. The class cluster don't have all 
+the attributes. 
+Score: 90/100
+
+* Enikeeva Maria
+The cluster.cpp and main.cpp is not implemented. The vectorization of relationship between 
+server and cluster was not implemented. 
+Score: 50/100
+
+* Kotelnikova Milana
+All implementations are correct. 
+Score: 100/100
+
+* Ksirotiris Konstantin
+All implementation is correct
+Score: 100/100
+
+* Maria Savko
+The overload of operations need manage call by reference
+Score: 95/100
+
+* Martianov Ivan
+The main.cpp is not implemented. The classes Costs, FixedCosts, VariableCosts, AdministrativeExpenses
+don't have constructors corrected implemented.
+Score: 60/100
+
+* Motorin Gordei
+The overload of operations need manage call by reference
+Score: 95/100
+
+* Poteriaev Rodion
+Some of the classes in the constructors are not defined the inheritance relationship. 
+Some of the setters and getters are not implement.
+Score: 70/100
+
+* Sevoian Vagram
+Cluster class not contemplate all the attributes defined in the exam. 
+Score: 87/100
+
+* Sokolova Elizaveta
+Function print was not defined.
+Score: 90/100
+
+* Sultanova Anastasia
+All implementation is correct implemented
+Score: 100/100
+
+* Tiomenev Valerii 
+The class Accounting is not correct defined. 
+Score: 85/100
+
+* Tzarev Pietr
+The overload operations are defined like class methods. The exam required implementation
+like global function with friend priviledge 
+Score: 70/100
+
+* Chigrinski Zahar 
+All implementation corrected done
+Score: 100/100
+
