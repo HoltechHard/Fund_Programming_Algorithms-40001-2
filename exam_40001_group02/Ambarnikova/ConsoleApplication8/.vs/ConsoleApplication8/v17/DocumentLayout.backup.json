@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication8\\varcost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|solutionrelative:varcost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Telegram Desktop\\accoun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication8\\costs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|solutionrelative:costs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication8\\ConsoleApplication8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|solutionrelative:ConsoleApplication8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\Telegram Desktop\\accoun.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication8\\costs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|solutionrelative:costs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication8\\accounting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|solutionrelative:accounting.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication8\\adminex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|solutionrelative:adminex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication8\\fixed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|solutionrelative:fixed.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication8\\varcost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|solutionrelative:varcost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication8\\fixed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|solutionrelative:fixed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication8\\adminex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|solutionrelative:adminex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|C:\\Users\\user\\source\\repos\\ConsoleApplication8\\accounting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBAB2170-4973-433B-96C0-C7A450B4AA20}|ConsoleApplication8.vcxproj|solutionrelative:accounting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "accoun.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\accoun.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Telegram Desktop\\accoun.cpp",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\accoun.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Telegram Desktop\\accoun.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T12:43:40.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "accoun.h",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\accoun.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Telegram Desktop\\accoun.h",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\accoun.h",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Telegram Desktop\\accoun.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T12:43:12.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "varcost.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\varcost.cpp",
+              "RelativeDocumentMoniker": "varcost.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\varcost.cpp",
+              "RelativeToolTip": "varcost.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T12:03:01.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fixed.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\fixed.cpp",
+              "RelativeDocumentMoniker": "fixed.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\fixed.cpp",
+              "RelativeToolTip": "fixed.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T12:02:06.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fixed.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\fixed.h",
+              "RelativeDocumentMoniker": "fixed.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\fixed.h",
+              "RelativeToolTip": "fixed.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T12:01:55.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "costs.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\costs.cpp",
+              "RelativeDocumentMoniker": "costs.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\costs.cpp",
+              "RelativeToolTip": "costs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T11:37:09.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "costs.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\costs.h",
+              "RelativeDocumentMoniker": "costs.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\costs.h",
+              "RelativeToolTip": "costs.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T11:43:34.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "accounting.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\accounting.h",
+              "RelativeDocumentMoniker": "accounting.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\accounting.h",
+              "RelativeToolTip": "accounting.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T09:58:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adminex.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\adminex.h",
+              "RelativeDocumentMoniker": "adminex.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\adminex.h",
+              "RelativeToolTip": "adminex.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T11:53:49.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "varcost.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\varcost.h",
+              "RelativeDocumentMoniker": "varcost.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\varcost.h",
+              "RelativeToolTip": "varcost.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-14T12:07:03.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApplication8.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\ConsoleApplication8.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication8.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\ConsoleApplication8.cpp",
+              "RelativeToolTip": "ConsoleApplication8.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T09:57:46.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "adminex.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\adminex.cpp",
+              "RelativeDocumentMoniker": "adminex.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\adminex.cpp",
+              "RelativeToolTip": "adminex.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T11:52:56.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "accounting.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\accounting.cpp",
+              "RelativeDocumentMoniker": "accounting.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ConsoleApplication8\\accounting.cpp",
+              "RelativeToolTip": "accounting.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T09:58:01.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
