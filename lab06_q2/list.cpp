@@ -16,7 +16,7 @@ void LinkedList::insertNode(Node *&current, int val){
     if (current == nullptr) {
         current = new Node(val);
         this->size++;
-    } else {
+    }else {
         insertNode(current->next, val);
     }
 }
@@ -50,7 +50,7 @@ int LinkedList::countNodes(const Node *current) const{
 
 int LinkedList::sumNodes(const Node *current) const{
     if(current == nullptr)
-        return 0;    
+        return 0;
     
     return current->getValue() + sumNodes(current->next);
 }
@@ -84,14 +84,6 @@ bool LinkedList::remove(int val){
         return false;
     }
 
-    if(head->getValue() == val){
-        Node *temp = head;
-        head = head->next;
-        delete temp;
-        this->size--;
-        return true;
-    }
-
     Node *previous = findPrevious(head, val);
     if(previous != nullptr){
         Node *temp = previous->next;
@@ -112,8 +104,7 @@ int LinkedList::sum() const{
     return sumNodes(this->head);
 }
 
-void LinkedList::print(){
-    cout<<"List: "<<endl;
+void LinkedList::print(){    
     showList(this->head);
     cout<<endl;
 }

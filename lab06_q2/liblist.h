@@ -10,7 +10,7 @@ class LinkedList{
     private:
         void insertNode(Node *&current, int val);
         Node *findNode(Node *current, int val) const;
-        Node *findPrevious(Node *current, int val) const;       
+        Node *findPrevious(Node *current, int val) const;
         int countNodes(const Node *current) const;
         int sumNodes(const Node *current) const;
         void showList(const Node *current) const;

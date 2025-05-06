@@ -38,13 +38,16 @@ int main(){
     list.update(18, 22);    
     list.print();
     cout<<"Sum of values = "<<list.sum()<<endl;
+    cout<<"Number of nodes = "<<list.count()<<endl;
 
     // Remove value
     cout<<endl<<"--- Remove list ---"<<endl;
-    cout<<"Removing value 3"<<endl;
+    cout<<"Removing values 3 and 13"<<endl;
     list.remove(3);
+    list.remove(13);
     list.print();
     cout<<"Sum of values = "<<list.sum()<<endl;
+    cout<<"Number of nodes = "<<list.count()<<endl;
 
     return 0;
 }
